@@ -105,15 +105,20 @@ flowchart TD
 
 ## 📸 Screenshots
 
-The screenshots below show sample SQL output from the project. Keep the `screenshots` folder beside this README file so the images render correctly on GitHub.
+### 🧾 Query results 
 
-### 🧾 Query results — Screenshot 1
+<img width="1135" height="460" alt="SQL(i)" src="https://github.com/user-attachments/assets/9cfced81-8014-409c-b232-013d6284d80b" />
 
-![University database query output 1](screenshots/SQL(i).jpeg)
+<img width="915" height="680" alt="SQL(ii)" src="https://github.com/user-attachments/assets/9d1c0135-d84b-4b31-8dce-d280e1e8b0d4" />
 
-### 📊 Query results — Screenshot 2
+<img width="745" height="680" alt="SQL(iii)" src="https://github.com/user-attachments/assets/f0831603-48e7-4580-87e9-1ef234ee6a81" />
 
-![University database query output 2](screenshots/SQL(ii).jpeg)
+<img width="705" height="680" alt="SQL(iv)" src="https://github.com/user-attachments/assets/172a6a70-9205-46ca-b576-02d4fd267813" />
+
+<img width="510" height="680" alt="SQL(v)" src="https://github.com/user-attachments/assets/3030fc18-7ac2-496f-8316-2da73d7bcdea" />
+
+<img width="625" height="250" alt="SQL(vi)" src="https://github.com/user-attachments/assets/e4049dd2-1f22-4d51-ba4b-70024330188d" />
+
 
 ## ▶️ How to Run
 
@@ -156,8 +161,11 @@ UniversityCourseManagementSystem/
 └── screenshots/
     ├── SQL(i).jpeg
     └── SQL(ii).jpeg
-```
-
+    |__SQL(iii).jpeg
+    |__SQL(iv).jpeg
+    |__SQL(v).jpeg
+    |__SQL(vi).jpeg
+ 
 ## 🚀 Future Enhancements
 
 - Add more sample students, courses, departments, and enrollments.
@@ -165,7 +173,3 @@ UniversityCourseManagementSystem/
 - Create views for common academic reports.
 - Add reports for course capacity and enrollment trends.
 - Connect the database to a Python or web-based user interface.
-
----
-
-⭐ **Thanks for checking out this University Course Management System project!**
